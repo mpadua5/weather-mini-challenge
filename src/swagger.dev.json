@@ -1,0 +1,18 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "version": "1.0.0",
+        "title": "Mini Challenge",
+        "description": "Devo pegar o guarda chuva?",
+        "license": {
+            "name": "MIT",
+            "url": "https://opensource.org/licenses/MIT"
+        }
+    },
+    "host": "localhost:8081",
+    "basePath": "/",
+    "schemes": [
+        "http"
+    ]
+}
+
